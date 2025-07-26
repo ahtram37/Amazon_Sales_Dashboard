@@ -7,5 +7,4 @@ To explore and visualize historical Amazon sales data and derive meaningful insi
 **Why this project?**
 This project marks the beginning of my data visualization journey. I aimed to turn raw data into actionable business insights and sharpen my skills in building interactive dashboards.
 
-Here's what the dashboard look like
-![Dashboard Preview].(https://github.com/ahtram37/Amazon_Sales_Dashboard/blob/main/Amazon%20Sales%20Dashboard.png)
+
