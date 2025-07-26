@@ -1,4 +1,4 @@
-Welcome to my first Power BI dashboard project! 🚀 
+**Welcome to my first Power BI dashboard project! 🚀**
 This interactive dashboard offers an insightful analysis of Amazon sales data sourced from the web, visualized in a clean and intuitive format using Power BI.
 
 **Objective:**
